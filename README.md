@@ -4,7 +4,7 @@ The conventional snake game has always been my favourite and so I myself develop
 using HTML, CSS, JavaScript. Its a 2D game based on the Collision theory where the snake gets
 longer/bigger every time it eats the fruit.
 
-Live link -> https://shaklan2001.github.io/Snake-Game/
+Live link -> https://kanishka20072001.github.io/Snake-Game/
 <br>
 <br>
 # UI Design
